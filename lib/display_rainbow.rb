@@ -8,6 +8,6 @@ def display_rainbow(color_Array)
   print "#{color_Initial_Array[3]}: #{color_Array[3]}, "
   print "#{color_Initial_Array[4]}: #{color_Array[4]}, "
  print "#{color_Initial_Array[5]}: #{color_Array[5]}, "
- puts "#{color_Initial_Array[2]}: #{color_Array[6]} "
+ puts "#{color_Initial_Array[6]}: #{color_Array[6]} "
  end
  display_rainbow(["red", "orange", "yellow", "green", "blue", "indigo", "violet"])
